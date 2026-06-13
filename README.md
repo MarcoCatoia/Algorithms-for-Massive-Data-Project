@@ -9,3 +9,5 @@ In this repository one can find:
 * The report in PDF containing a detailed explanation of the whole workflow and resuming the results project
 
 The notebook is executable directly in Google Colab, by clicking the relative Colab badge.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcoCatoia/Algorithms-for-Massive-Data-Project/blob/main/Market_Basket_Analysis_Project.ipynb)
