@@ -8,3 +8,4 @@ In this repository one can find:
 * The python notebook containing the relevant code
 * The report in PDF containing a detailed explanation of the whole workflow and resuming the results project
 
+The notebook is executable directly in Google Colab, by clicking the relative Colab badge.
